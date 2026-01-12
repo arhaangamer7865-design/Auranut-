@@ -1,0 +1,7 @@
+{
+  "name": "Auranut",
+  "description": "A web application to track your daily food intake, exercise, and progress towards your health goals, powered by Gemini. Log meals and workouts, and visualize your journey to a healthier you.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
